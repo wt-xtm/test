@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-<node>    Tylko spacje poprzedzające.</node>
-<node>    Tylko spacje poprzedzające.</node>
-<node>Tylko spacje kończące.     </node>
-<node>    Poprzedzające o kończące.    </node>
-<node>Spacje        wewnętrzne.</node>
-<node>    Spacje    <b>   wewnętrzne   z   boldem   </b>,   poprzedzające i kończące.    </node>
-</root> 
