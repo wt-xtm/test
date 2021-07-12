@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
-    <item name="flashres_xtm_test_key" comment="ffa"><![CDATA[XTM Test Key in the file flashres.xml test]]></item>
+    <item name="flashres_xtm_test_key" comment="ffa"><![CDATA[test]]></item>
     <item name="no_clan"><![CDATA[No clan]]></item>
     <item name="notloggedin" comment="Scott other"><![CDATA[Please log in again]]></item>
     <item name="nohitpoints" comment="Scott abc"><![CDATA[No hit points left. test]]></item>
     <item name="invalid_session" comment="Scott wow"><![CDATA[test Go to the homepage and log in to continue playing!]]></item>
-    <item name="title_alert" comment="Scott rrrr"><![CDATA[Note]]></item>
-    <item name="title_warning"><![CDATA[Warning]]></item>
-    <item name="title_error"><![CDATA[Error]]></item>
+    <item name="title_alert" comment="Scott rrrr"><![CDATA[Hinweis]]></item>
+    <item name="title_warning"><![CDATA[Hinweis]]></item>
+    <item name="title_error"><![CDATA[Fehler]]></item>
     <item name="doubleloggedin"><![CDATA[You're already logged in on the map.  Please close the other browser window.]]></item>
     <item name="canjmp"><![CDATA[You can make a jump if your level allows it.]]></item>
     <item name="clearing"><![CDATA[_]]></item>
