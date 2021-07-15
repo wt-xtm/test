@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
-    <item name="flashres_xtm_test_key" comment="ffa"><![CDATA[XTM Test Key in the file flashres.xml]]></item>
+    <item name="flashres_xtm_test_key" comment="ffa"><![CDATA[XTM Test Key in the file flashres.xml test tes]]></item>
     <item name="no_clan"><![CDATA[dupa]]></item>
-    <item name="notloggedin" comment="Scott other"><![CDATA[Please log in again]]></item>
-    <item name="nohitpoints" comment="Scott abc"><![CDATA[No hit points left. Repair your ship in the hangar or buy a new ship!]]></item>
+    <item name="notloggedin" comment="Scott other"><![CDATA[dupa]]></item>
+    <item name="nohitpoints" comment="Scott abc"><![CDATA[dupa dupa]]></item>
     <item name="invalid_session" comment="Scott wow"><![CDATA[You're not logged in. Go to the homepage and log in to continue playing!]]></item>
     <item name="title_alert" comment="Scott rrrr"><![CDATA[Note]]></item>
     <item name="title_warning"><![CDATA[Warning]]></item>
