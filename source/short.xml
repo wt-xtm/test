@@ -1,66 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="flashres_xtm_test_key" comment="ffa"><![CDATA[XTM Test Key in the file flashres.xml]]></item>
- <item name="no_clan"><![CDATA[No clan]]></item>
- <item name="notloggedin" comment="Scott other"><![CDATA[Please log in again]]></item>
- <item name="nohitpoints" comment="Scott abc"><![CDATA[No hit points left. Repair your ship in the hangar or buy a new ship!]]></item>
- <item name="invalid_session" comment="Scott wow"><![CDATA[You're not logged in. Go to the homepage and log in to continue playing!]]></item>
- <item name="title_alert" comment="Scott rrrr"><![CDATA[Note]]></item>
- <item name="title_warning"><![CDATA[Warning]]></item>
- <item name="title_error"><![CDATA[Error]]></item>
- <item name="doubleloggedin"><![CDATA[You're already logged in on the map.  Please close the other browser window.]]></item>
- <item name="canjmp"><![CDATA[You can make a jump if your level allows it.]]></item>
- <item name="clearing"><![CDATA[_]]></item>
- <item name="nonjmp"><![CDATA[You can't use this portal: You need to have at least level %!]]></item>
- <item name="notarget"><![CDATA[Unable to attack: You didn't select an opponent.]]></item>
- <item name="oksammel"><![CDATA[%! collected]]></item>
- <item name="farming"><![CDATA[Collecting %!]]></item>
- <item name="boxtoobig"><![CDATA[Cargo bay full! Sell your raw materials at the space station.]]></item>
- <item name="farmresult"><![CDATA[You collected:]]></item>
- <item name="boxfarming"><![CDATA[Salvaging %!]]></item>
- <item name="destroyed"><![CDATA[%! destroyed]]></item>
- <item name="friendlyfire"><![CDATA[Warning: If you attack a spaceship from your own company, honor points and credits will be deducted.]]></item>
- <item name="boxdisabled"><![CDATA[Collecting box already]]></item>
- <item name="resourcedisabled"><![CDATA[The resources are already being gathered.]]></item>
- <item name="outofammo"><![CDATA[Aborting attack. Not enough laser ammo for an attack.]]></item>
- <item name="norepneed"><![CDATA[No repair necessary]]></item>
- <item name="dorepair"><![CDATA[Repairs started]]></item>
- <item name="logoutbreak"><![CDATA[Logout not possible]]></item>
- <item name="logoutbreak_user"><![CDATA[You canceled the logout process.]]></item>
- <item name="repsuccess"><![CDATA[Repairs completed. Your spaceship now has 100% hit points.]]></item>
- <item name="jumplevelfalse"><![CDATA[You need level %! for the jump. Not possible to jump from your level.]]></item>
- <item name="rohstoffailed"><![CDATA[Raw material collection failed]]></item>
- <item name="loadfull"><![CDATA[Cargo bay is full.]]></item>
- <item name="attescape"><![CDATA[You escaped the attack.]]></item>
- <item name="outofrange"><![CDATA[Out of range]]></item>
- <item name="peacearea"><![CDATA[Demilitarized zone]]></item>
- <item name="fightcont"><![CDATA[The battle continues.]]></item>
- <item name="fightcanceled"><![CDATA[The battle was canceled.]]></item>
- <item name="fightcanceledbyop"><![CDATA[Your opponent canceled the battle.]]></item>
- <item name="connclosed"><![CDATA[Your connection was interrupted.]]></item>
- <item name="attstop"><![CDATA[Attack on %! was canceled.]]></item>
- <item name="oppoatt"><![CDATA[Attacking: %!]]></item>
- <item name="log_hero_attacks_opponent"><![CDATA[%! is under attack.]]></item>
- <item name="emptybat"><![CDATA[No laser ammo left - buy new laser ammo]]></item>
- <item name="ttip_log_files"><![CDATA[Log-disks]]></item>
- <item name="connectionbreak"><![CDATA[Your connection was interrupted.]]></item>
- <item name="errorbyServer"><![CDATA[Error - please check your ship for damage.]]></item>
- <item name="easterspecial"><![CDATA[Cloaking detected]]></item>
- <item name="msg_uncloaked"><![CDATA[Ship uncloaked]]></item>
- <item name="droppingbomb"><![CDATA[Warning! Mine launched - 5 seconds until armed.]]></item>
- <item name="m_cargo"><![CDATA[CARGO BAY]]></item>
- <item name="m_uridium"><![CDATA[URIDIUM]]></item>
- <item name="m_credits"><![CDATA[CREDITS]]></item>
- <item name="m_experience"><![CDATA[EXPERIENCE]]></item>
- <item name="m_level"><![CDATA[LEVEL]]></item>
- <item name="m_honor"><![CDATA[HONOR]]></item>
- <item name="m_jackpot"><![CDATA[JACKPOT EURO]]></item>
- <item name="m_hitpoints"><![CDATA[HIT POINTS]]></item>
- <item name="m_shild"><![CDATA[SHIELD]]></item>
- <item name="m_rockets"><![CDATA[ROCKETS]]></item>
-<item name="ttip_blueprint_box_a_elite_poison"><![CDATA[Poison A-Elite design]]></item>
-<item name="ttip_blueprint_box_a_elite_poison_drone"><![CDATA[Poison A-Elite drone design]]></item>
-<item name="ttip_blueprint_box_a_elite_poison_pet"><![CDATA[Poison A-Elite P.E.T design]]></item>
-<item name="ttip_blueprint_box_a_elite_legend"><![CDATA[Legend A-Elite design]]></item>
-
+    <item name="flashres_xtm_test_key" comment="ffa"><![CDATA[XTM Test Key in the file flashres.xml test tes]]></item>
+    <item name="no_clan"><![CDATA[test]]></item>
+    <item name="notloggedin" comment="Scott other"><![CDATA[dupa]]></item>
+    <item name="nohitpoints" comment="Scott abc"><![CDATA[No hit points left. Repair your ship in the hangar or buy a new ship!]]></item>
+    <item name="invalid_session" comment="Scott wow"><![CDATA[You're not logged in. Go to the homepage and log in to continue playing!]]></item>
+    <item name="title_alert" comment="Scott rrrr"><![CDATA[Note]]></item>
+    <item name="title_warning"><![CDATA[Warning]]></item>
+    <item name="title_error"><![CDATA[Error]]></item>
+    <item name="doubleloggedin"><![CDATA[You're already logged in on the map.  Please close the other browser window.]]></item>
+    <item name="canjmp"><![CDATA[You can make a jump if your level allows it.]]></item>
+    <item name="clearing"><![CDATA[_]]></item>
+    <item name="nonjmp"><![CDATA[You can't use this portal: You need to have at least level %!]]></item>
+    <item name="notarget"><![CDATA[Unable to attack: You didn't select an opponent.]]></item>
+    <item name="oksammel"><![CDATA[%! collected]]></item>
+    <item name="farming"><![CDATA[Collecting %!]]></item>
+    <item name="boxtoobig"><![CDATA[Cargo bay full! Sell your raw materials at the space station.]]></item>
+    <item name="farmresult"><![CDATA[You collected:]]></item>
+    <item name="boxfarming"><![CDATA[Salvaging %!]]></item>
+    <item name="destroyed"><![CDATA[%! destroyed]]></item>
+    <item name="friendlyfire"><![CDATA[Warning: If you attack a spaceship from your own company, honor points and credits will be deducted.]]></item>
+    <item name="boxdisabled"><![CDATA[Collecting box already]]></item>
+    <item name="resourcedisabled"><![CDATA[The resources are already being gathered.]]></item>
+    <item name="outofammo"><![CDATA[Aborting attack. Not enough laser ammo for an attack.]]></item>
+    <item name="norepneed"><![CDATA[No repair necessary]]></item>
+    <item name="dorepair"><![CDATA[Repairs started]]></item>
+    <item name="logoutbreak"><![CDATA[Logout not possible]]></item>
+    <item name="logoutbreak_user"><![CDATA[You canceled the logout process.]]></item>
+    <item name="repsuccess"><![CDATA[Repairs completed. Your spaceship now has 100% hit points.]]></item>
+    <item name="jumplevelfalse"><![CDATA[You need level %! for the jump. Not possible to jump from your level.]]></item>
+    <item name="rohstoffailed"><![CDATA[Raw material collection failed]]></item>
+    <item name="loadfull"><![CDATA[Cargo bay is full.]]></item>
+    <item name="attescape"><![CDATA[You escaped the attack.]]></item>
+    <item name="outofrange"><![CDATA[Out of range]]></item>
+    <item name="peacearea"><![CDATA[Demilitarized zone]]></item>
+    <item name="fightcont"><![CDATA[The battle continues.]]></item>
+    <item name="fightcanceled"><![CDATA[The battle was canceled.]]></item>
+    <item name="fightcanceledbyop"><![CDATA[Your opponent canceled the battle.]]></item>
+    <item name="connclosed"><![CDATA[Your connection was interrupted.]]></item>
+    <item name="attstop"><![CDATA[Attack on %! was canceled.]]></item>
+    <item name="oppoatt"><![CDATA[Attacking: %!]]></item>
+    <item name="log_hero_attacks_opponent"><![CDATA[%! is under attack.]]></item>
+    <item name="emptybat"><![CDATA[No laser ammo left - buy new laser ammo]]></item>
+    <item name="ttip_log_files"><![CDATA[Log-disks]]></item>
+    <item name="connectionbreak"><![CDATA[Your connection was interrupted.]]></item>
+    <item name="errorbyServer"><![CDATA[Error - please check your ship for damage.]]></item>
+    <item name="easterspecial"><![CDATA[Cloaking detected]]></item>
+    <item name="msg_uncloaked"><![CDATA[Ship uncloaked]]></item>
+    <item name="droppingbomb"><![CDATA[Warning! Mine launched - 5 seconds until armed.]]></item>
+    <item name="m_cargo"><![CDATA[CARGO BAY]]></item>
+    <item name="m_uridium"><![CDATA[URIDIUM]]></item>
+    <item name="m_credits"><![CDATA[CREDITS]]></item>
+    <item name="m_experience"><![CDATA[EXPERIENCE]]></item>
+    <item name="m_level"><![CDATA[LEVEL]]></item>
+    <item name="m_honor"><![CDATA[HONOR]]></item>
+    <item name="m_jackpot"><![CDATA[JACKPOT EURO]]></item>
+    <item name="m_hitpoints"><![CDATA[HIT POINTS]]></item>
+    <item name="m_shild"><![CDATA[SHIELD]]></item>
+    <item name="m_rockets"><![CDATA[ROCKETS]]></item>
+    <item name="ttip_blueprint_box_a_elite_poison"><![CDATA[Poison A-Elite design]]></item>
+    <item name="ttip_blueprint_box_a_elite_poison_drone"><![CDATA[Poison A-Elite drone design]]></item>
+    <item name="ttip_blueprint_box_a_elite_poison_pet"><![CDATA[Poison A-Elite P.E.T design]]></item>
+    <item name="ttip_blueprint_box_a_elite_legend"><![CDATA[Legend A-Elite design]]></item>
 </resource>
